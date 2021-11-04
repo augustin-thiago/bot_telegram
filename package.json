@@ -1,0 +1,20 @@
+{
+  "name": "botsad2021",
+  "version": "1.0.0",
+  "description": "Bot criado no disciplina de Sistemas de Apoio a Decisao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Chatbot",
+    "Telegram",
+    "API"
+  ],
+  "author": "Emerson Schafhauser",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.4.2"
+  }
+}
