@@ -1,7 +1,7 @@
 // importando a biblioteca 'Telegraf'
 const Telegraf = require('telegraf')
 // criando o objeto 'bot'
-const bot = new Telegraf.Telegraf('2083042281:AAFubNeKxL63rxjllgTx9xU5MpAyeI0wAXw')
+const bot = new Telegraf.Telegraf('2080399777:AAH47y20Ra-G38lukSTH3VwgYKvQsiWbzpc')
 
 // criando o comando para iniciar o bot
 bot.command('start', ctx => {
